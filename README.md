@@ -9,3 +9,9 @@
 ***
 ### 學習補充資料
 + [程式語法字典](https://www.w3schools.com/python/default.asp)
+***
+### 作業
++ [3/13作業](https://github.com/ELISA1220/113-2Programming-language/blob/main/W5_HW.ipynb)
+
++ [3/27作業](W6_HW.ipynb)
+
