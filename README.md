@@ -16,4 +16,5 @@
 + [3/27作業](W6_HW.ipynb)
 + [4/10作業](HW0410.ipynb)
 + [4/16專題](https://youtu.be/XhdOXaF_gEM)
++ [4/22作業](HW0424.ipynb)
 
