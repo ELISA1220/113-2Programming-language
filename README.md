@@ -10,11 +10,14 @@
 ### 學習補充資料
 + [程式語法字典](https://www.w3schools.com/python/default.asp)
 ***
+### 專題
++ [4/16專題](https://youtu.be/XhdOXaF_gEM)
++ [5/01專題進度匯報](https://youtu.be/JvvoD9Ss5_o)
+   （由於感冒發不出聲音，請線上好友代為錄音）
+***
 ### 作業
 + [3/13作業](https://github.com/ELISA1220/113-2Programming-language/blob/main/W5_HW.ipynb)
-
 + [3/27作業](W6_HW.ipynb)
 + [4/10作業](HW0410.ipynb)
-+ [4/16專題](https://youtu.be/XhdOXaF_gEM)
 + [4/22作業](HW0424.ipynb)
 
