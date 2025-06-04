@@ -13,7 +13,7 @@
 ### 專題
 + [4/16專題](https://youtu.be/XhdOXaF_gEM)
 + [5/01專題進度匯報](https://youtu.be/JvvoD9Ss5_o)
-+ [6/05專題展示]
++ [6/05專題展示](https://youtu.be/NGdjCou2kR4)
   + [程式碼](https://script.google.com/d/1eHZe8fCpo1Tf5SytFNDUz8ZP9Y4-O-PsMIUjOqcoCvAN4pckYfRijYYo/edit?usp=sharing) 
 ***
 ### 作業
